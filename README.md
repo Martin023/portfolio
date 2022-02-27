@@ -14,7 +14,7 @@ The wep application shows my skills, my coding journey and some of projects I ha
 
 My link to font awesome kit is open so you can use it if you don't have yours.
 ## Known Bugs
-Incase of slow loading or icons missing, check internet speeds or browser.
+Incase of slow loading or icons missing, check internet speeds or browser. tested on google Chrome and Firefox browser.
 ## Technologies Used
 HTML,CSS, figma for design, and bootsrap for resposiveness and styling.
 ## Support and contact details
