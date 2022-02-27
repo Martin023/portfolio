@@ -4,7 +4,7 @@
 You can view the live demo here :https://martin023.github.io/portfolio/
 
 ## Screenshot of the page
-
+![Portfolio](https://github.com/Martin023/portfolio/blob/master/background2.1.jpg)
 ## Description
 The wep application shows my skills, my coding journey and some of projects I have done.
 ## Setup/Installation Requirements
