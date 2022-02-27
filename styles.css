@@ -21,3 +21,9 @@ h2 {
 	bottom: 0;
 	width: 100%;
 }
+/* Styling for icons. */
+.fa {
+	color: white;
+	margin: 10px 5px;
+	font-size: 3em !important;
+}
