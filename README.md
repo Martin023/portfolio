@@ -2,6 +2,9 @@
 #### A simple portfolio website, 26/02/2022.
 #### By Martin Maina
 You can view the live demo here :https://martin023.github.io/portfolio/
+
+## Screenshot of the page
+
 ## Description
 The wep application shows my skills, my coding journey and some of projects I have done.
 ## Setup/Installation Requirements
