@@ -280,6 +280,12 @@ body {
     outline:none;
     border-bottom:3px solid rgba(255, 255, 255,1);
 }
+
+.skills {
+ align-items: center;
+ justify-content: center;
+}
+
 ::placeholder {
     color:#fff;
 }
